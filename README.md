@@ -8,6 +8,7 @@ geek_score: overall score for geeks
 outlet_rate: score based on number of outlets
 supports_puff: boolean yes/no value for cafe having built-in smoking area
 cat: category of 'this'
+best_for: e.g. "thinking of ex."
 ```
 
 ## Seoul, Korea
@@ -17,11 +18,13 @@ cat: category of 'this'
 *신논현 플라워 카페*
 > 🌹 + ☕️ = ❤️
 ```yml
-magic : 차이티 Chai tea
-geek_score: 7/10
-outlet_rate: 2/10
+magic: 차이티 Chai tea
+geek_score: 7/12
+outlet_rate: 2/12
 supports_puff: false
 cat: 
   - ☕️
   - 🌹
+  - lo-fi
+best_for: listening to lo-fi
 ```
