@@ -1,6 +1,11 @@
 # drug ☕️🚬🐈👩‍💻  addicts ![](https://img.shields.io/badge/coffee-on-brightgreen) ![](https://img.shields.io/badge/addiction-on-brightgreen) ![](https://img.shields.io/badge/cigaretes-on-brightgreen)
 
+![](./doc/cover.png)
+
+
+
 `MAX_SCORE = 12.0`
+
 ```yml
 name: name of the cafe
 magic: name of the best menu
