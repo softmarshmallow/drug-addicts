@@ -20,7 +20,7 @@ best_for: e.g. "thinking of ex."
 **gangnam**
 
 
-*신논현 플라워 카페*
+*신논현 까치화방*
 > 🌹 + ☕️ = ❤️
 ```yml
 magic: 차이티 Chai tea
@@ -32,4 +32,21 @@ cat:
   - 🌹
   - lo-fi
 best_for: listening to lo-fi
+```
+
+
+
+
+*신논현 정월*
+> 🌕 + 🍵 = 🚪
+```yml
+magic: Milk tea
+geek_score: 9/12
+outlet_rate: 6/12
+supports_puff: false
+cat: 
+  - 🌕
+  - 🎋
+  - calming
+best_for: writing / reading a book
 ```
