@@ -36,8 +36,12 @@ best_for: listening to lo-fi
 
 
 
+---------
+
+
 
 *신논현 정월*
+
 > 🌕 + 🍵 = 🚪
 ```yml
 magic: Milk tea
@@ -50,3 +54,30 @@ cat:
   - calming
 best_for: writing / reading a book
 ```
+
+<img src="./images/seoul-jung-wol-gangnam.jpg" height="250"/>
+
+
+
+
+
+--------
+
+*ab cafe (Create, It's your world.)*
+
+> 🍓 + 🌴 = 🌅
+
+```yaml
+magic: Strawberry latte
+geek_score: 11/12
+outlet_rate: 11/12
+supports_puff: false
+cat: 
+  - 🌺
+  - 🌴
+  - 🏝
+  - hawaii
+best_for: writing / laying down, thinking stuff
+```
+
+<img src="./images/seoul-ab-acfe-gangnam.jpg" width="250"/>
