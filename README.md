@@ -69,7 +69,7 @@ best_for: writing / reading a book
 
 ```yaml
 magic: Strawberry latte
-geek_score: 11/12
+geek_score: 10/12
 outlet_rate: 11/12
 supports_puff: false
 cat: 
@@ -81,3 +81,27 @@ best_for: writing / laying down, thinking stuff
 ```
 
 <img src="./images/seoul-ab-acfe-gangnam.jpg" width="250"/>
+
+
+
+*something about coffee*
+
+> 💡 + 🍞 = 💀
+
+```yaml
+magic: Vanilla pound
+geek_score: 10/12
+outlet_rate: 7/12 (outlets are available, but only for corner seets)
+supports_puff: false
+cat: 
+  - 🍞
+  - ☕️
+  - 🎧
+  - modern
+best_for: watching clouds in the sky
+```
+
+<img src="./images/seoul-something-about-coffee-1.jpg" width="250"/><img src="./images/seoul-something-about-coffee-2.jpg" width="250"/>
+
+
+
