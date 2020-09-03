@@ -12,7 +12,9 @@ magic: name of the best menu
 geek_score: overall score for geeks
 outlet_rate: score based on number of outlets
 supports_puff: boolean yes/no value for cafe having built-in smoking area
+has_roof: boolean for cafe having the roof-top
 cat: category of 'this'
+floors: floor range of the cafe
 best_for: e.g. "thinking of ex."
 ```
 
@@ -27,10 +29,12 @@ magic: 차이티 Chai tea
 geek_score: 7/12
 outlet_rate: 2/12
 supports_puff: false
+has_roof: false
 cat: 
   - ☕️
   - 🌹
   - lo-fi
+floors: 1
 best_for: listening to lo-fi
 ```
 
@@ -48,10 +52,12 @@ magic: Milk tea
 geek_score: 9/12
 outlet_rate: 6/12
 supports_puff: false
+has_roof: true
 cat: 
   - 🌕
   - 🎋
   - calming
+floors: B1 - 2
 best_for: writing / reading a book
 ```
 
@@ -72,11 +78,13 @@ magic: Strawberry latte
 geek_score: 10/12
 outlet_rate: 11/12
 supports_puff: false
+has_roof: false
 cat: 
   - 🌺
   - 🌴
   - 🏝
   - hawaii
+floors: B1 - 2
 best_for: writing / laying down, thinking stuff
 ```
 
@@ -93,11 +101,13 @@ magic: Vanilla pound
 geek_score: 10/12
 outlet_rate: 7/12 (outlets are available, but only for corner seets)
 supports_puff: false
+has_roof: true
 cat: 
   - 🍞
   - ☕️
   - 🎧
   - modern
+floors: B1 - 2
 best_for: watching clouds in the sky
 ```
 
